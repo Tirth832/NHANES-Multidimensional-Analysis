@@ -9,3 +9,10 @@ For this task, we will be working with the following datasets:
 1) Examinations dataset.
 2) Dietary dataset.
 3) Laboratory dataset.
+
+I have uploaded all the three datasets separately.
+The Data preparation.ipynb file combines these three datasets into one and cleans and scales the data.
+After our dataset is inally ready, I exported it to data.csv.
+(It was a big file so I have uploaded it's compressed version. Use 7zip to decompress the file.)
+
+This data.csv was finally used on our model in Analysis-and-Model.ipynb file.
